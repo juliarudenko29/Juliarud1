@@ -1,0 +1,15 @@
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.csproj.AssemblyReference.cache
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.AssemblyInfoInputs.cache
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.AssemblyInfo.cs
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/Juliarud1/exercise02/bin/Debug/net7.0/exercise02
+/Users/julia/Desktop/Juliarud1/exercise02/bin/Debug/net7.0/exercise02.deps.json
+/Users/julia/Desktop/Juliarud1/exercise02/bin/Debug/net7.0/exercise02.runtimeconfig.json
+/Users/julia/Desktop/Juliarud1/exercise02/bin/Debug/net7.0/exercise02.dll
+/Users/julia/Desktop/Juliarud1/exercise02/bin/Debug/net7.0/exercise02.pdb
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.dll
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/refint/exercise02.dll
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.pdb
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/exercise02.genruntimeconfig.cache
+/Users/julia/Desktop/Juliarud1/exercise02/obj/Debug/net7.0/ref/exercise02.dll
